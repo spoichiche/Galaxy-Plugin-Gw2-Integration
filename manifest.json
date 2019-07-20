@@ -1,0 +1,12 @@
+{
+    "name": "Galaxy Guild Wars 2 plugin",
+    "platform": "gw2",
+    "guid": "8c97a2dd-4055-4031-aeb5-66bd119d0844",
+    "version": "0.1",
+    "description": "Galaxy Guild Wars 2 plugin",
+    "author": "Spoichiche",
+    "email": "spoichiche@gmail.com",
+    "url": "",
+    "update_url": "",
+    "script": "plugin.py"
+}
